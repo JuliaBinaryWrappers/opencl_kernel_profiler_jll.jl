@@ -1,0 +1,17 @@
+name = "opencl_kernel_profiler_jll"
+uuid = "a40818c2-62e6-5f58-9742-acd36e79783b"
+version = "0.0.109+0"
+
+[deps]
+JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
+perfetto_jll = "a9cf55cc-512e-50a3-b9eb-1bf9889000f5"
+OpenCL_jll = "6cb37087-e8b6-5417-8430-1f242f1e46e4"
+SPIRV_Tools_jll = "6ac6d60f-d740-5983-97d7-a4482c0689f4"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+
+[compat]
+JLLWrappers = "1.7.0"
+julia = "1.6"
+Libdl = "< 0.0.1, 1"
+Artifacts = "< 0.0.1, 1"

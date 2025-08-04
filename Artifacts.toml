@@ -1,0 +1,170 @@
+[[opencl_kernel_profiler]]
+arch = "aarch64"
+git-tree-sha1 = "5f3ef52898015025b7f25d1c90149b72f2bdda93"
+os = "macos"
+
+    [[opencl_kernel_profiler.download]]
+    sha256 = "4faac23bc47a028263262763f5d3f26844778a171040948ecf0617c83720ed39"
+    url = "https://github.com/JuliaBinaryWrappers/opencl_kernel_profiler_jll.jl/releases/download/opencl_kernel_profiler-v0.0.109+0/opencl_kernel_profiler.v0.0.109.aarch64-apple-darwin.tar.gz"
+[[opencl_kernel_profiler]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "e238a865a7bc03fed5f78c45bd51d1273dfddfc4"
+libc = "glibc"
+os = "linux"
+
+    [[opencl_kernel_profiler.download]]
+    sha256 = "b52a4a01067967dc173d22e0a6eccfa3a81719b78bbf47954370416c3de514e6"
+    url = "https://github.com/JuliaBinaryWrappers/opencl_kernel_profiler_jll.jl/releases/download/opencl_kernel_profiler-v0.0.109+0/opencl_kernel_profiler.v0.0.109.aarch64-linux-gnu-cxx03.tar.gz"
+[[opencl_kernel_profiler]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c25f6cbdec4b503e598a2f578282c15ab9fe9f87"
+libc = "glibc"
+os = "linux"
+
+    [[opencl_kernel_profiler.download]]
+    sha256 = "c43ac2f564b88ca38a5ea7c3c099289e2841797ba486d091836067070f0bff64"
+    url = "https://github.com/JuliaBinaryWrappers/opencl_kernel_profiler_jll.jl/releases/download/opencl_kernel_profiler-v0.0.109+0/opencl_kernel_profiler.v0.0.109.aarch64-linux-gnu-cxx11.tar.gz"
+[[opencl_kernel_profiler]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "ba9db67dae0f087c568230810dd78284704ce41c"
+libc = "glibc"
+os = "linux"
+
+    [[opencl_kernel_profiler.download]]
+    sha256 = "6749b0afe12b63fb7a9fca602b4655c1deccfa7b34658fcc5544eb0607e98d69"
+    url = "https://github.com/JuliaBinaryWrappers/opencl_kernel_profiler_jll.jl/releases/download/opencl_kernel_profiler-v0.0.109+0/opencl_kernel_profiler.v0.0.109.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[opencl_kernel_profiler]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "496a640def82568474134e99f1f094d3406b94b3"
+libc = "glibc"
+os = "linux"
+
+    [[opencl_kernel_profiler.download]]
+    sha256 = "9c25160d9edabd01a2534a64edad00a5225c684c1b8852ceb741f95f77f1ebed"
+    url = "https://github.com/JuliaBinaryWrappers/opencl_kernel_profiler_jll.jl/releases/download/opencl_kernel_profiler-v0.0.109+0/opencl_kernel_profiler.v0.0.109.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[opencl_kernel_profiler]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "dae66a436d84e9aa5c64486164cbbb69d5f4de05"
+libc = "glibc"
+os = "linux"
+
+    [[opencl_kernel_profiler.download]]
+    sha256 = "479106e9d6edb4c587eeacb11faf2be4124203e38f64489e0f51786cb74cedfe"
+    url = "https://github.com/JuliaBinaryWrappers/opencl_kernel_profiler_jll.jl/releases/download/opencl_kernel_profiler-v0.0.109+0/opencl_kernel_profiler.v0.0.109.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[opencl_kernel_profiler]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d1c077bf3a7dbabd7398bf26b2c6d050dccfa3a7"
+libc = "glibc"
+os = "linux"
+
+    [[opencl_kernel_profiler.download]]
+    sha256 = "1d0ef08b9fce4f5f045a9310337101a442c41afb6b314959e382d7ca5cd07aaa"
+    url = "https://github.com/JuliaBinaryWrappers/opencl_kernel_profiler_jll.jl/releases/download/opencl_kernel_profiler-v0.0.109+0/opencl_kernel_profiler.v0.0.109.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[opencl_kernel_profiler]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "aa669eb1f724c46ca7715c45dbee3364ee39a8c9"
+libc = "glibc"
+os = "linux"
+
+    [[opencl_kernel_profiler.download]]
+    sha256 = "ba44b48fa373b20200536fa662464fedcd10e43c827e0d7191926a0fab45a4af"
+    url = "https://github.com/JuliaBinaryWrappers/opencl_kernel_profiler_jll.jl/releases/download/opencl_kernel_profiler-v0.0.109+0/opencl_kernel_profiler.v0.0.109.i686-linux-gnu-cxx03.tar.gz"
+[[opencl_kernel_profiler]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "58cecfce43203faa18115d0adca4d2693809e586"
+libc = "glibc"
+os = "linux"
+
+    [[opencl_kernel_profiler.download]]
+    sha256 = "cc3f8f97a8696487d0c1f54bc5777dc2e9f93533953df99d5d866e584b3b72d1"
+    url = "https://github.com/JuliaBinaryWrappers/opencl_kernel_profiler_jll.jl/releases/download/opencl_kernel_profiler-v0.0.109+0/opencl_kernel_profiler.v0.0.109.i686-linux-gnu-cxx11.tar.gz"
+[[opencl_kernel_profiler]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "8534646c9a3b0682ae5ee1d8049dbe42bd08104c"
+libc = "glibc"
+os = "linux"
+
+    [[opencl_kernel_profiler.download]]
+    sha256 = "052e8769c32dee4928c0d4f1ec4772ac2230f09d77969ab425298f68a18fbd76"
+    url = "https://github.com/JuliaBinaryWrappers/opencl_kernel_profiler_jll.jl/releases/download/opencl_kernel_profiler-v0.0.109+0/opencl_kernel_profiler.v0.0.109.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[opencl_kernel_profiler]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "96ddd4d30d12d45b5d3ba8d3a9fad940865de318"
+libc = "glibc"
+os = "linux"
+
+    [[opencl_kernel_profiler.download]]
+    sha256 = "33da3badc1518451a734856bc937044adbd32ccb83d67259665b580bb2704cb4"
+    url = "https://github.com/JuliaBinaryWrappers/opencl_kernel_profiler_jll.jl/releases/download/opencl_kernel_profiler-v0.0.109+0/opencl_kernel_profiler.v0.0.109.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[opencl_kernel_profiler]]
+arch = "riscv64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "46a26d63f1528bcc2ef53f1b0810a77ce32da8a0"
+libc = "glibc"
+os = "linux"
+
+    [[opencl_kernel_profiler.download]]
+    sha256 = "ad76eaf4c8decbba37dc0c72731845b61f3a49e7d7860f293fd6baae189114d7"
+    url = "https://github.com/JuliaBinaryWrappers/opencl_kernel_profiler_jll.jl/releases/download/opencl_kernel_profiler-v0.0.109+0/opencl_kernel_profiler.v0.0.109.riscv64-linux-gnu-cxx03.tar.gz"
+[[opencl_kernel_profiler]]
+arch = "riscv64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "38b4efd37641a32736fe7bb924a97857620b14c7"
+libc = "glibc"
+os = "linux"
+
+    [[opencl_kernel_profiler.download]]
+    sha256 = "113051651f48ffdcd8590ae6c5ad28a57febc044426e6d2a24a682ee93dd5969"
+    url = "https://github.com/JuliaBinaryWrappers/opencl_kernel_profiler_jll.jl/releases/download/opencl_kernel_profiler-v0.0.109+0/opencl_kernel_profiler.v0.0.109.riscv64-linux-gnu-cxx11.tar.gz"
+[[opencl_kernel_profiler]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "5f93478259731cb719e014b37661319a2a175d15"
+libc = "glibc"
+os = "linux"
+
+    [[opencl_kernel_profiler.download]]
+    sha256 = "77b8527f4532e1d824c44ede8b01b1dd02b7859f690618b84f1092e6fdfbe468"
+    url = "https://github.com/JuliaBinaryWrappers/opencl_kernel_profiler_jll.jl/releases/download/opencl_kernel_profiler-v0.0.109+0/opencl_kernel_profiler.v0.0.109.x86_64-linux-gnu-cxx03.tar.gz"
+[[opencl_kernel_profiler]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8bcb51bc1db572142553bfd7bb1e8a94f2ab903a"
+libc = "glibc"
+os = "linux"
+
+    [[opencl_kernel_profiler.download]]
+    sha256 = "0ad8c20dae6217aa0b18f6d8f4bd650448c02c2b6109ec645f93d1c0fc11975f"
+    url = "https://github.com/JuliaBinaryWrappers/opencl_kernel_profiler_jll.jl/releases/download/opencl_kernel_profiler-v0.0.109+0/opencl_kernel_profiler.v0.0.109.x86_64-linux-gnu-cxx11.tar.gz"
+[[opencl_kernel_profiler]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "a3e61a11eec06737b3a75e5e5c79581b31d2669c"
+os = "windows"
+
+    [[opencl_kernel_profiler.download]]
+    sha256 = "972a068a2f3c918501a585364f5f0914ec729b09b6cc4628bba0fd9f1502a57b"
+    url = "https://github.com/JuliaBinaryWrappers/opencl_kernel_profiler_jll.jl/releases/download/opencl_kernel_profiler-v0.0.109+0/opencl_kernel_profiler.v0.0.109.x86_64-w64-mingw32-cxx03.tar.gz"
+[[opencl_kernel_profiler]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1f7ec3d42cb59bcc6d7bda670dce636a9000ae57"
+os = "windows"
+
+    [[opencl_kernel_profiler.download]]
+    sha256 = "c6e71c448d645331a45bc306eb1f72a4b909f285966fe38760463cd7cae806b0"
+    url = "https://github.com/JuliaBinaryWrappers/opencl_kernel_profiler_jll.jl/releases/download/opencl_kernel_profiler-v0.0.109+0/opencl_kernel_profiler.v0.0.109.x86_64-w64-mingw32-cxx11.tar.gz"
